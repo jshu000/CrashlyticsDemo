@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443474718998",
+    "project_id": "crashlytics-b2b3d",
+    "storage_bucket": "crashlytics-b2b3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443474718998:android:b91814ad3dff1bf6b2e037",
+        "android_client_info": {
+          "package_name": "com.example.crashlyticsdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPwHQVbrzgykItNiwqA5g_yl_PK5dyGLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
